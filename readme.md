@@ -1,3 +1,1 @@
-## Aurelia project
-
-Updated all packages on 21.09.2020
+## Empty repo for smth interesting
